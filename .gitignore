@@ -1,0 +1,5 @@
+.vscode
+MakeFile
+
+*.un~
+*.o
